@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-03-07T14:16:49+01:00",
+  "id": "Choose a course",
+  "duration": 8,
+  "title": "Choose a course",
+  "authors": "Zarin",
+  "summary": "Choose a course",
+  "source": "id.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "web"
+  ],
+  "tags": [
+    "medium"
+  ],
+  "feedback": "https://zarin.io",
+  "url": "Choose a course"
+}
